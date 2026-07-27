@@ -1,4 +1,4 @@
-# Flipkart Console Store
+# Online Shopping System(Flipkart clone console-based)
 
 A console based online shopping system built in **Core Java** as part of my
 Summer Internship (Java + DSA) with CipherSchools. It works like a mini
