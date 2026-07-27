@@ -1,0 +1,8 @@
+1|Wireless Mouse|Logitech|Electronics|599.0|10.0|4.2|50|Ergonomic 2.4GHz wireless mouse
+2|Mechanical Keyboard|Redgear|Electronics|2499.0|15.0|4.4|30|RGB backlit mechanical keyboard
+3|Cotton T-Shirt|Levis|Clothing|399.0|20.0|3.9|100|Men's plain round-neck cotton t-shirt
+4|Running Shoes|Nike|Footwear|1999.0|25.0|4.6|40|Lightweight breathable running shoes
+5|Non-stick Pan|Prestige|Home & Kitchen|899.0|5.0|4.0|25|26cm non-stick frying pan
+6|Java Programming Book|McGraw Hill|Books|549.0|10.0|4.7|60|Beginner-friendly guide to Java
+7|Bluetooth Earbuds|boAt|Electronics|1499.0|30.0|4.1|3|Wireless earbuds with mic
+8|Formal Shirt|Allen Solly|Clothing|1199.0|10.0|3.7|0|Slim fit formal shirt for office wear
